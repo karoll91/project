@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52858c26-0313-4533-931f-28fe311b8af8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1245/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1245/sdfsdf.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -46,6 +51,11 @@
       <updated>1614599157304</updated>
       <workItem from="1614599158337" duration="3009000" />
       <workItem from="1614681777179" duration="1817000" />
+      <workItem from="1614854117259" duration="1783000" />
+      <workItem from="1614917795688" duration="4635000" />
+      <workItem from="1615005153811" duration="598000" />
+      <workItem from="1615007159074" duration="1908000" />
+      <workItem from="1615025985349" duration="546000" />
     </task>
     <servers />
   </component>
@@ -53,6 +63,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="412" y="293" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614921069328">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="412" y="293" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1614921069328" />
     <state x="475" y="414" key="NewPhpFileDialog" timestamp="1614599199454">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
